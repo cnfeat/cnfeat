@@ -7,7 +7,7 @@
 - 😊 博客：[https://www.cnfeat.com/archive/](https://www.cnfeat.com/archive/)
 - 💡 推特：[https://twitter.com/feat](https://twitter.com/feat)
 - 📗 豆瓣：[https://www.douban.com/people/cnfeat/](https://www.douban.com/people/cnfeat/)
-✍️ 小报童：[https://xiaobot.net/p/hardwaylab](https://xiaobot.net/p/hardwaylab)
+- ✍️ 小报童：[https://xiaobot.net/p/hardwaylab](https://xiaobot.net/p/hardwaylab)
 - 🟡 即刻：[https://okjk.co/hefS9p](https://okjk.co/hefS9p)
 - 🟢 公众号：笨方法实验室
 
